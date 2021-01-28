@@ -1,0 +1,22 @@
+tag 72022d7eee9b0c41e97f73ec7e814c12a2d9568b 8.0.1.1
+Author:	James D. Callahan III <jcallahan@curse.com>
+Date:	Sat Jul 21 02:52:14 2018 -0500
+
+commit 8ed53c1afcc125c40d4a30f70aee44d637f85853
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:44:25 2018 -0500
+
+    Update ToC Interface to 80000.
+
+commit 67119fccf50f15b0b190637989b0f4e379d82080
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:44:11 2018 -0500
+
+    Disable loading of libraries during development, since these won't exist at that point and the WoW 8.x client now complains about this.
+
+commit 85357972fbd6f79138d44fc7703646d36b9bee3e
+Author: James D. Callahan III <jcallahan@curse.com>
+Date:   Sat Jul 21 02:43:48 2018 -0500
+
+    Turn off -nolib creation.
+

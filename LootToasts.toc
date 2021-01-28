@@ -1,0 +1,15 @@
+## Interface: 80000
+## Title: LootToasts
+## Notes: Spawns toasts for looted items, money, and currencies.
+## Author: Torhal
+## Version: 8.0.1.1
+## X-Revision: 8ed53c1
+## X-Date: 2018-07-21T7:44:25Z
+
+## OptionalDeps: Ace3, LibToast-1.0
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: Delayed
+
+embeds.xml
+
+Core.lua
